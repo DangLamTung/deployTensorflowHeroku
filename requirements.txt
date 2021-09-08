@@ -33,7 +33,7 @@ lambda-packages==0.20.0
 Markdown==2.6.11
 MarkupSafe==1.0
 numpy==1.14.5
-Pillow==5.2.0
+Pillow==8.3.2
 placebo==0.8.1
 protobuf==3.6.1
 pystan==2.17.1.0
